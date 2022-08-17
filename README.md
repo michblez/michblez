@@ -5,7 +5,7 @@
 - 🎓 Estudo desenvolvimento de softwares com foco em tratativas de dados e analises
 - ❤ Sou curioso e apaixonado por tecnologias em geral, em constante processo de aprendizagem. Busco sempre o melhor pessoalmente e profissionalmente.
    no meu tempo livre eu gosto de praticar exercicios físicos, jogar vídeo games, e adquirir conhecimentos em diversas áreas.
-- 📊 Atualmente trabalho no time de Back-end realizando desenvolvimento e melhoira de sistemas. 
+- 📊 Atualmente trabalho no time de Back-end, realizando desenvolvimento e melhorias de sistemas. 
 - 🚀 Meu objetivo profissional: Desenvolvedor Python Jr. / Analista de dados Jr.
 
 ## 📈 GitHub Stats 
