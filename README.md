@@ -36,8 +36,11 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=michblez&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<img align="right" alt="Mich-ble" src="https://i.picasion.com/pic92/78bdf433ec5c5eb8188887086fbfce29.gif"> 
 
 ## 📩 Entre em contato:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mich-florencio/)](https://www.linkedin.com/in/mich-florencio/)
@@ -50,5 +53,6 @@
 
 
 ![Snake animation](https://github.com/michblez/michblez/blob/output/github-contribution-grid-snake.svg)
+
 
 
